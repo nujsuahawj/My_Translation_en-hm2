@@ -1,0 +1,9 @@
+Style Guideline from client:
+1.	All UC campus names are treated like brand names and will be left in English 
+a.	We will put the translation of hospital units and clinics in parentheses after the English: UCSF Kidney Transplant (Trasplante Renal de UCSF).
+2.	We will not translate street and city names if they are part of the address. If the city is mentioned in a sentence, then please translate. Example: UCLA provides services in Los Angeles.  
+3.	We will not translate proper nouns – names of people are OK to leave in English.  Names of cities, geographical features, etc.  – see #2 above.
+a.	Do not translate the health care providers titles. Leave titles as is. For example: Brent Michael Lem, MD or Kayley Lai, RN 
+4.	Please always spell out the dates
+a.	For example in Spanish: for 05/17/22 change to "17 de mayo de 2022" 
+5.	The url (if any) would remain the same – untranslated. The text would be translated unless it fits into one of the categories above. For example; “you can find the numbers for the UCSF Cancer Center on our web page”: UCSF Cancer Center (translation in parentheses). “Go to John Smith MD personal page”: John Smith MD would not be translated. “You can find information about diabetes management on our website”: Diabetes management would be translated.
